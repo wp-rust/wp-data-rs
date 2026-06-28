@@ -1,0 +1,10 @@
+[package]
+name = "wp-data-rs"
+version = "0.1.1"
+edition = "2024"
+description = "Rust port of WordPress/Elementor package wp-data-rs"
+license = "GPL-2.0"
+
+[dependencies]
+anyhow = "1.0.103"
+lazy_static = "1.5.0"
