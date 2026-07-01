@@ -1,0 +1,1 @@
+/Users/bhubbard/PROJECTS/elementor-to-blocks/packages/wp-data-rs/target/debug/libwp_data_rs.rlib: /Users/bhubbard/PROJECTS/elementor-to-blocks/packages/wp-data-rs/target/package/wp-data-rs-0.1.1/src/lib.rs

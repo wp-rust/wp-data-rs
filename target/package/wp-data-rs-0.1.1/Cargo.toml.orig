@@ -4,7 +4,6 @@ version = "0.1.1"
 edition = "2024"
 description = "Rust port of WordPress/Elementor package wp-data-rs"
 license = "GPL-2.0"
-repository = "https://github.com/wp-rust/wp-data-rs"
 
 [dependencies]
 anyhow = "1.0.103"
